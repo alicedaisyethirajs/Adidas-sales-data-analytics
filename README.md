@@ -1,4 +1,5 @@
 **Objective**
+
 The primary objective of this project is to perform a comprehensive analysis of Adidas' sales data using Python. The goal is to extract actionable insights that can enhance sales performance and inform strategic business decisions. By leveraging data analysis and visualization techniques, the project aims to identify key sales drivers, uncover trends, and highlight opportunities for growth.
 Utilizing Python's data analysis libraries such as Pandas, NumPy, Matplotlib, and Seaborn, the analysis encompasses data cleaning, transformation, and visualization. Key aspects of the project include:​
 Data Cleaning: Addressing missing values, correcting inconsistencies, and ensuring data integrity.
@@ -9,6 +10,7 @@ The outcome is a set of visualizations and insights that provide a clear underst
 
 
 **Dataset Description**
+
 The dataset comprises detailed sales records with the following columns:
 
 Retailer: Name of the business or individual selling Adidas products.
@@ -37,7 +39,8 @@ Operating Margin: Profitability metric indicating efficiency.
 
 Sales Method: Channel used for the sale (e.g., Online, In-Store).
 
-Tools & Technologies
+**Tools & Technologies**
+
 Python: Core programming language for analysis.
 
 Pandas: Data manipulation and analysis.
