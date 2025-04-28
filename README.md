@@ -83,4 +83,11 @@ Regional Analysis: Assessed sales distribution to identify high-performing regio
 
 
 
+*** Visualizations and Insights Drawn ***
+![image](https://github.com/user-attachments/assets/814065e1-119b-462c-8fc9-c5a779fed81d)
+
+
+
+
+
 ​
