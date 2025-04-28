@@ -5,7 +5,6 @@ The primary objective of this project is to perform a comprehensive analysis of 
 **Dataset Description**
 
 The dataset comprises detailed sales records with the following columns:
-
 Retailer: Name of the business or individual selling Adidas products.
 Retailer ID: Unique identifier for each retailer.
 Invoice Date: Date of the sales transaction.
@@ -55,15 +54,21 @@ Regional Analysis: Assessed sales distribution to identify high-performing regio
 
 ![image](https://github.com/user-attachments/assets/814065e1-119b-462c-8fc9-c5a779fed81d)
 
+
 ![image](https://github.com/user-attachments/assets/59c6eb7a-81b9-440e-aae7-75a591747ae3)
+
 
 ![image](https://github.com/user-attachments/assets/48e6e338-5d94-4b7c-9342-d377c9d2f136)
 
+
 ![image](https://github.com/user-attachments/assets/ef20ca67-9f3b-4bea-be9d-c2edbae84918)
+
 
 ![image](https://github.com/user-attachments/assets/394d5c34-2df4-4746-a317-0d9f3d633571)
 
+
 ![image](https://github.com/user-attachments/assets/b8eb9fee-d132-4c86-8826-8154ae306f98)
+
 
 ![image](https://github.com/user-attachments/assets/2d1604c3-7db3-4ad5-9a8e-6526aab97fdf)
 
